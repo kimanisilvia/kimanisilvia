@@ -15,8 +15,8 @@ This portfolio highlights some of the projects i have worked on while in school 
 
   ### Education Agency Website 
   -**Role:** Web Developer (Industrial Attachment)
-  -**Tools Used:** WordPress, Elementor
-  -**Description:** Built a website for an education consultancy agency that helps students access international education opportunities.
+  - **Tools Used:** WordPress, Elementor
+  - **Description:** Built a website for an education consultancy agency that helps students access international education opportunities.
   -**Key Contributions:**
     - Structured website sections (Company Profile, Services, Partnered Universities)
     - Added **Reasons to Study in China and Malaysia**, scholarship listings and consultancy registration forms.
@@ -25,8 +25,8 @@ This portfolio highlights some of the projects i have worked on while in school 
 
   ### Travel Website 
   -**Role:** Web Developer (Industrial Attachment)
-  -**Tools Used:** WordPress, Elementor
-  -**Description:** Developed a website for a safari and travel company offering tours across Kenya and East Africa.
+  - **Tools Used:** WordPress, Elementor
+  - **Description:** Developed a website for a safari and travel company offering tours across Kenya and East Africa.
   -**Key Contribution:**
     - Designed sections for safari packages (camping safaris, luxury lodge safaris, mountain trekking, yatch safaris and beach holidays)
     - Structured the homepage to highlight popular tours and destinations.
@@ -36,9 +36,9 @@ This portfolio highlights some of the projects i have worked on while in school 
  ## School Project
  ### NakuNai E-ticketing System
  -**Role:** Lead Web Developer (School Project)
- -**Tools Used:** WordPress, Elementor
- -**Overview:** NakuNai is a matatu E-ticketing system designed to modernize public transport in Kenya by providing a convenient online platform for passengers to book seats and operators to manage routes.
--**Planned Features (In Progress):**
+ - **Tools Used:** WordPress, Elementor
+ - **Overview:** NakuNai is a matatu E-ticketing system designed to modernize public transport in Kenya by providing a convenient online platform for passengers to book seats and operators to manage routes.
+- **Planned Features (In Progress):**
   - Customer registration and login system
   - Secure payment integration for ticket purchase (M-Pesa)
 -**Key Contribution:**
