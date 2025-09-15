@@ -13,7 +13,7 @@ This portfolio highlights some of the projects i have worked on while in school 
 -**Live Site:** [Visit Website] (https://raysmagan.co.ke)
   
 
-  ### Education Agency Website (https://adnaraedu.com/)
+  ### Education Agency Website 
   -**Role:** Web Developer (Industrial Attachment)
   -**Tools Used:** WordPress, Elementor
   -**Description:** Built a website for an education consultancy agency that helps students access international education opportunities.
@@ -21,8 +21,9 @@ This portfolio highlights some of the projects i have worked on while in school 
     - Structured website sections (Company Profile, Services, Partnered Universities)
     - Added **Reasons to Study in China and Malaysia**, scholarship listings and consultancy registration forms.
     - Designed a clean and user-friendly interface for easy navigation.
+-**Live Site:** [Visit Website] (https://adnaraedu.com)
 
-  ### Travel Website (https://exoticlandandseasafaris.com/)
+  ### Travel Website 
   -**Role:** Web Developer (Industrial Attachment)
   -**Tools Used:** WordPress, Elementor
   -**Description:** Developed a website for a safari and travel company offering tours across Kenya and East Africa.
@@ -30,6 +31,7 @@ This portfolio highlights some of the projects i have worked on while in school 
     - Designed sections for safari packages (camping safaris, luxury lodge safaris, mountain trekking, yatch safaris and beach holidays)
     - Structured the homepage to highlight popular tours and destinations.
     - Focused on creating a visually engaging design with travel imagery.
+-**Live Site:** [Visit Site] (https://exoticlandandseasafaris.com)
 
  ## School Project
  ### NakuNai E-ticketing System
