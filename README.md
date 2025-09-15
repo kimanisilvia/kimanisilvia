@@ -3,7 +3,7 @@ Welcome to my portfolio! I am passionate about **Web development** and **Softwar
 This portfolio highlights some of the projects i have worked on while in school and others during my **industrial attachment**, where i gained hands-on experience creating real-world websites using **Wordpress and Elementor**.
 
 ## Attachment Projects
-### Construction and Building Company Website (https://raysmagan.co.ke/)
+### Construction and Building Company Website (https://raysmagan.co.ke)
 -**Role:** Web Developer (Industrial Attachment)
 - **Tools Used:** Wordpress, Elementor
 - **Description:** Developed a professional website for a construction company to showcase their profile, projects and services.
